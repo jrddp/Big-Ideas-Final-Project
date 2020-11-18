@@ -13,6 +13,7 @@
 > Includes population estimates from 2015.
 #### Metric 2: Public Art
 - [Pittsburgh Public Art](https://data.wprdc.org/dataset/city-of-pittsburgh-public-art)
+> Information on every art project in Pittsburgh, including the neighborhood they are in and their art type.
 
 ## Abstract
 #### Metric 1: Safety
@@ -26,10 +27,15 @@ Based on this metric, the top 3 safest neighborhoods are as follows:
 
 #### Metric 2: Public Art
 
- TODO --- Abstract: A TLDR summary of the findings of the project. Answer to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics)t
- 
- #### Conclusion
- Based on both metrics, with 2/3 weight given to the safety metric and 1/3 weight given to the art metric, the top 3 best neighborhoods are as follows:
+Each neighborhood was counted for each time it was listed in the dataset. The neighborhood that was listed the most, or had the most public art, is the best neighborhood in Pittsburgh.
+
+Based on this metric, the top 3 neighborhoods are:
+1. Central Business District
+2. Squirrel Hill South
+3. Allegheny Center
+
+#### Conclusion
+Based on both metrics, with 2/3 weight given to the safety metric and 1/3 weight given to the art metric, the top 3 best neighborhoods are as follows:
 1. Squirrel Hill South
 2. Highland Park
 3. Shadyside
