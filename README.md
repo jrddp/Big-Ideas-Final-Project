@@ -13,8 +13,8 @@
 
 ## Abstract
 #### Metric 1: Safety
-Police incidents are counted per neighborhood and weighed on their severity in order to determine the danger of the neighborhood.
-Those counts are then divided by estimated populations for those neighborhoods in order.
+Police incidents are counted per neighborhood and weighed based on their severity in order to determine the danger of the neighborhood.
+Those counts are then divided by estimated populations for those neighborhoods, giving us an indicator of which neighborhoods are the most dangerous, as well as which are the most safe.
 
 #### Metric 2: Public Art
 
