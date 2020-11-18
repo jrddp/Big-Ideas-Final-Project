@@ -20,11 +20,11 @@ Police incidents are counted per neighborhood and weighed based on their severit
 Those counts are then divided by estimated populations for those neighborhoods, giving us an indicator of which neighborhoods are the most dangerous, as well as which are the most safe.
 
 Based on this metric, the top 3 safest neighborhoods are as follows:
-
-#### Metric 2: Public Art
 1. New Homestead
 2. Regent Square
 3. Squirrel Hill North
+
+#### Metric 2: Public Art
 
  TODO --- Abstract: A TLDR summary of the findings of the project. Answer to the question: What is the best neighborhood? And How did you determine that answer (brief summary of metrics)t
  
